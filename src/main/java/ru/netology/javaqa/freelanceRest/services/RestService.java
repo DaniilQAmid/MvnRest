@@ -1,6 +1,6 @@
 package ru.netology.javaqa.freelanceRest.services;
 
-public class restService {
+public class RestService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0; // счётчик месяцев отдыха
         int money = 0; // количество денег на счету
